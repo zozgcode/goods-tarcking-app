@@ -1,7 +1,7 @@
 export const trackingNumbersData = [
   {
     id: 1,
-    number: "Exp/USA/23/065951",
+    number: "065951",
   },
   {
     id: 2,

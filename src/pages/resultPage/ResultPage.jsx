@@ -11,7 +11,7 @@ export default function ResultPage({ inputValue }) {
     <div className="fixed z-50 w-full left-0 right-0 top-0 bg-black/50">
       <div className="w-full bg-[#ffffff] overflow-x-auto h-screen border mx-auto">
         <div className="w-full p-[16px] text-[#333333]">
-          <div className="max-w-[900px] mx-auto">
+          <div className="max-w-[1000px] mx-auto">
             <div className="text-right flex items-center justify-between cursor-pointer font-semibold p-4">
               <a href="/">
                 <img

@@ -1,4 +1,4 @@
-import { progressDaTa, shippingInfo } from "./data";
+import { progressDaTa, attorneyAndrewShippingInfo } from "./data";
 
 export default function TrackNo065951({ inputValue }) {
   return (
@@ -62,7 +62,7 @@ export default function TrackNo065951({ inputValue }) {
             <span> Shipment Information</span>
           </div>
           <div>
-            {shippingInfo.map((itemInfo, i) => (
+            {attorneyAndrewShippingInfo.map((itemInfo, i) => (
               <div
                 className={`flex ${
                   itemInfo.bgChange ? "bg-gray-100" : "bg-[#858585] text-white"

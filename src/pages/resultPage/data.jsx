@@ -1,4 +1,4 @@
-export const shippingInfo = [
+export const attorneyAndrewShippingInfo = [
   {
     title: "Weight",
     content: "*****",
@@ -10,7 +10,7 @@ export const shippingInfo = [
   },
   {
     title: "Packages",
-    content: "Envelope",
+    content: "Briefcase",
   },
   {
     title: "Mode",
@@ -46,7 +46,7 @@ export const shippingInfo = [
   },
   {
     title: "Departure Time",
-    content: "18:30",
+    content: "10:30 a.m",
   },
   {
     title: "Origin",
@@ -55,16 +55,16 @@ export const shippingInfo = [
   },
   {
     title: "Destination",
-    content: "Massachusetts, U.S.A",
+    content: "Ottawa, Canada",
   },
   {
     title: "Pickup Date",
-    content: "February 27, 2023",
+    content: "*****",
     bgChange: true,
   },
   {
     title: "Pickup Time",
-    content: "21:36",
+    content: "*****",
   },
   {
     title: "Status",
@@ -73,7 +73,7 @@ export const shippingInfo = [
   },
   {
     title: "Expected Delivery Date",
-    content: "February 27, 2023",
+    content: "October 14, 2023",
   },
   {
     title: "Comments",
@@ -86,7 +86,7 @@ export const shippingInfo = [
   },
   {
     title: "Type of Shipment",
-    content: "Parcel delivery",
+    content: "Truckload",
     bgChange: true,
   },
 ];
