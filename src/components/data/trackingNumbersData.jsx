@@ -9,6 +9,6 @@ export const trackingNumbersData = [
   },
   {
     id: 3,
-    number: "Fedex/USA/23/547712mfmmmmfm",
+    number: "Fedex/USA/23/547712",
   },
 ];
