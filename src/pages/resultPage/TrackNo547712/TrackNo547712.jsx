@@ -88,7 +88,7 @@ export default function TrackNo789012({ inputValue }) {
                       325 south lake Dr apt 2 Lexington SC 29072{" "}
                     </td>
                     <td className="px-4 py-2 w-[200px]">
-                      optiona-jacobmyers860@gmail.com
+                      jacobmyers860@gmail.com
                     </td>
                   </tr>
                 </tbody>
