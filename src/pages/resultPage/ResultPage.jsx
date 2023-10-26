@@ -1,6 +1,7 @@
 import { trackingNumbersData } from "../../components/data/trackingNumbersData";
 import TrackNo065951 from "./TrackNo065951";
 import TrackNo789012 from "./TrackNo789012";
+import TrackNo547712 from "./TrackNo547712/TrackNo547712";
 
 export default function ResultPage({ inputValue }) {
   const foundNumber = trackingNumbersData.find(
@@ -29,6 +30,7 @@ export default function ResultPage({ inputValue }) {
               <div>
                 {foundNumber && foundNumber.id === 1 && <TrackNo065951 inputValue={inputValue} />}
                 {foundNumber && foundNumber.id === 2 && <TrackNo789012 inputValue={inputValue} />}
+                {foundNumber && foundNumber.id === 3 && <TrackNo547712 inputValue={inputValue} />}
               </div>
             </div>
           </div>
