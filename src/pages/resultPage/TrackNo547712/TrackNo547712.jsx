@@ -5,11 +5,6 @@ export default function TrackNo547712({ inputValue }) {
   return (
     <div>
       <div className="border p-4 md:p-8 rounded-lg">
-        {/* <div className="forNonPaymentYet border p-5 mb-8 bg-black text-white font-bold">
-          SCAM WEBSITE SCAM WEBSITE SCAM WEBSITE SCAM WEBSITE SCAM WEBSITE SCAM
-          WEBSITE SCAM WEBSITE: <br />
-          Note: This section will be removed when you pay. thank you
-        </div> */}
         <TimeLine547712 />
         <div>
           <div className="p-4 pl-0 flex gap-3 mt-[10px] font-semibold">
