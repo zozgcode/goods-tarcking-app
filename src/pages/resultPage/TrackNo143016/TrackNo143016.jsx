@@ -1,15 +1,15 @@
-import { BarristerJamesShippingInfo } from "../data";
-import TimeLine547712 from "./TimeLine547712";
+import { BarristerJamesShippingInfo, TexasDptBankingShippingInfo } from "../data";
+import TimeLine547712 from "./TimeLine143016";
 
-export default function TrackNo547712({ inputValue }) {
+export default function TrackNo143016({ inputValue }) {
   return (
     <div>
       <div className="border p-4 md:p-8 rounded-lg">
-        {/* <div className="forNonPaymentYet border p-5 mb-8 bg-black text-white font-bold">
+        <div className="forNonPaymentYet border p-5 mb-8 bg-black text-white font-bold">
           SCAM WEBSITE SCAM WEBSITE SCAM WEBSITE SCAM WEBSITE SCAM WEBSITE SCAM
           WEBSITE SCAM WEBSITE: <br />
           Note: This section will be removed when you pay. thank you
-        </div> */}
+        </div>
         <TimeLine547712 />
         <div>
           <div className="p-4 pl-0 flex gap-3 mt-[10px] font-semibold">
@@ -39,14 +39,12 @@ export default function TrackNo547712({ inputValue }) {
                 </thead>
                 <tbody>
                   <tr className="bg-white text-[#333333] border">
-                    <td className="px-4 py-2 w-[200px]">Barrister James</td>
-                    <td className="px-4 py-2 w-[200px]">+1 567-343-234</td>
-                    <td className="px-4 py-2 w-[300px]">
-                      South Market Street, Suite 1075, San Jose CA 95113
-                    </td>
                     <td className="px-4 py-2 w-[200px]">
-                      barristerjames719@gmail.com
+                      Texas department of Banking
                     </td>
+                    <td className="px-4 py-2 w-[200px]">+1 877-277-7723</td>
+                    <td className="px-4 py-2 w-[300px]">TX 77568</td>
+                    <td className="px-4 py-2 w-[200px]">*****</td>
                   </tr>
                 </tbody>
               </table>
@@ -82,14 +80,14 @@ export default function TrackNo547712({ inputValue }) {
                 </thead>
                 <tbody>
                   <tr className="bg-white text-[#333333] border">
-                    <td className="px-4 py-2 w-[200px]">Jacob Myerss</td>
-                    <td className="px-4 py-2 w-[200px]">+1 803-238-0523</td>
-                    <td className="px-4 py-2 w-[300px]">
-                      325 south lake Dr apt 2 Lexington SC 29072{" "}
-                    </td>
                     <td className="px-4 py-2 w-[200px]">
-                      jacobmyers860@gmail.com
+                      Christopher Knollenberg
                     </td>
+                    <td className="px-4 py-2 w-[200px]">+1 951-663-2929</td>
+                    <td className="px-4 py-2 w-[300px]">
+                      49 Bentwood Ln Aliso Viejo CA 92656
+                    </td>
+                    <td className="px-4 py-2 w-[200px]">*****</td>
                   </tr>
                 </tbody>
               </table>
@@ -105,7 +103,7 @@ export default function TrackNo547712({ inputValue }) {
             <span> Shipment Information</span>
           </div>
           <div>
-            {BarristerJamesShippingInfo.map((itemInfo, i) => (
+            {TexasDptBankingShippingInfo.map((itemInfo, i) => (
               <div
                 className={`flex ${
                   itemInfo.bgChange ? "bg-gray-100" : "bg-[#858585] text-white"

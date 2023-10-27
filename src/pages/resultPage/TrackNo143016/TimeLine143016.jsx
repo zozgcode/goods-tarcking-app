@@ -13,7 +13,7 @@ export default function TimeLine143016() {
                   Boston, MA. US
                 </p>
                 <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  October 26, 2023
+                  October 27, 2023
                 </time>
               </div>
             </div>
@@ -26,7 +26,7 @@ export default function TimeLine143016() {
                   San Francisco, CA
                 </p>
                 <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  October 26, 2023
+                  October 27, 2023
                 </time>
               </div>
             </div>
@@ -49,14 +49,14 @@ export default function TimeLine143016() {
                   DELIVERED
                 </h3>
                 <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
-                  Jacob Myerss
+                  Christopher Knollenberg
                 </p>
                 <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
-                  325 south lake Dr apt 2 Lexington SC 29072
+                  49 Bentwood Ln Aliso Viejo CA 92656
                 </p>
-                <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
+                {/* <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
                   October 28, 2023
-                </time>
+                </time> */}
               </div>
             </div>
           </ul>

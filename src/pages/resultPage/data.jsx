@@ -225,26 +225,83 @@ export const BarristerJamesShippingInfo = [
   },
 ];
 
-export const BarristerJamesProgressDaTa = [
+export const TexasDptBankingShippingInfo = [
   {
-    title: "Package received",
-    address: "2604 PITKIN LANE NW HUNTSVILLE, AL 35810",
-    icon: <i className="fa-solid text-white text-xl fa-file-lines"></i>,
-    date: "Feb 25, 2023",
-    time: "13:00",
+    title: "Courier",
+    content: "FedEx",
+    bgChange: true,
   },
   {
-    title: "Package now in transit",
-    address: "2604 PITKIN LANE NW HUNTSVILLE, AL 35810",
-    icon: <i className="fa-solid text-white text-xl fa-truck"></i>,
-    date: "Feb 25, 2023",
-    time: "13:00",
+    title: "Packages",
+    content: "Cheque",
   },
   {
-    title: "Package held by FedEx",
-    address: "2604 PITKIN LANE NW HUNTSVILLE, AL 35810",
-    icon: <i className="fa-solid text-white text-xl fa-rotate"></i>,
-    date: "Feb 25, 2023",
-    time: "13:00",
+    title: "Mode",
+    content: "Road",
+    bgChange: true,
+  },
+  {
+    title: "Product",
+    content: "Cheque",
+  },
+  {
+    title: "Quantity",
+    content: "*****",
+    bgChange: true,
+  },
+  {
+    title: "Payment Mode",
+    content: "Cash",
+  },
+  {
+    title: "Carrier",
+    content: "FedEx",
+    bgChange: true,
+  },
+  {
+    title: "Carrier Reference Number",
+    trackingNumber: true,
+  },
+  {
+    title: "Departure Time",
+    content: "02:30 P.M",
+    bgChange: true,
+  },
+  {
+    title: "Origin",
+    content: "49 Bentwood Ln Aliso Viejo CA, USA",
+  },
+  {
+    title: "Destination",
+    content: "49 Bentwood Ln Aliso Viejo CA, USA",
+    bgChange: true,
+  },
+  {
+    title: "Pickup Date",
+    content: "October 27, 2023",
+  },
+  {
+    title: "Pickup Time",
+    content: "05:33 P.M",
+    bgChange: true,
+  },
+  {
+    title: "Status",
+    content: "Processing",
+  },
+  {
+    title: "Expected Delivery Date",
+    content: "October 28, 2023",
+    bgChange: true,
+  },
+  {
+    title: "Comments",
+    content: "Handle with care",
+  },
+  {
+    title: "Type of Shipment",
+    content: "Truckload",
+    bgChange: true,
   },
 ];
+
