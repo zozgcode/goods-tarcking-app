@@ -30,19 +30,6 @@ export default function TimeLine143016() {
                 </time>
               </div>
             </div>
-            <div className="StepProgress-item is-done">
-              <div className="ml-5 h-[70px]">
-                <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
-                  ON HOLD
-                </h3>
-                {/* <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
-                    San Francisco, CA
-                  </p>
-                  <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                    October 8th, 2023
-                  </time> */}
-              </div>
-            </div>
             <div className="StepProgress-item current">
               <div className="ml-5 h-[70px]">
                 <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
