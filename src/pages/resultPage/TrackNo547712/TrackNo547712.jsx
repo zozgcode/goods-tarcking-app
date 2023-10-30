@@ -35,7 +35,7 @@ export default function TrackNo547712({ inputValue }) {
                 <tbody>
                   <tr className="bg-white text-[#333333] border">
                     <td className="px-4 py-2 w-[200px]">Barrister James</td>
-                    <td className="px-4 py-2 w-[200px]">+1 567-343-234</td>
+                    <td className="px-4 py-2 w-[200px]">+1 760-419-9851</td>
                     <td className="px-4 py-2 w-[300px]">
                       South Market Street, Suite 1075, San Jose CA 95113
                     </td>
