@@ -322,7 +322,7 @@ export const GaryMrestainoShippingInfo = [
   },
   {
     title: "Product",
-    content: "Cheque",
+    content: "Document",
   },
   {
     title: "Quantity",
