@@ -371,7 +371,7 @@ export const GaryMrestainoShippingInfo = [
   },
   {
     title: "Expected Delivery Date",
-    content: "January 6, 2023",
+    content: "January 6, 2024",
     bgChange: true,
   },
   {
