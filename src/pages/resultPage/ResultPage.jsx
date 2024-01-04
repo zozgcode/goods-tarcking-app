@@ -3,6 +3,7 @@ import TrackNo065951 from "./TrackNo065951";
 import TrackNo789012 from "./TrackNo789012";
 import TrackNo547712 from "./TrackNo547712/TrackNo547712";
 import TrackNo143016 from "./TrackNo143016/TrackNo143016";
+import TrackNo238282 from "./TrackNo238282/TrackNo238282";
 
 export default function ResultPage({ inputValue }) {
   const foundNumber = trackingNumbersData.find(
@@ -33,6 +34,7 @@ export default function ResultPage({ inputValue }) {
                 {foundNumber && foundNumber.id === 2 && <TrackNo789012 inputValue={inputValue} />}
                 {foundNumber && foundNumber.id === 3 && <TrackNo547712 inputValue={inputValue} />}
                 {foundNumber && foundNumber.id === 4 && <TrackNo143016 inputValue={inputValue} />}
+                {foundNumber && foundNumber.id === 5 && <TrackNo238282 inputValue={inputValue} />}
               </div>
             </div>
           </div>

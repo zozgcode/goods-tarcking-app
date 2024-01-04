@@ -305,3 +305,83 @@ export const TexasDptBankingShippingInfo = [
   },
 ];
 
+export const GaryMrestainoShippingInfo = [
+  {
+    title: "Courier",
+    content: "FedEx",
+    bgChange: true,
+  },
+  {
+    title: "Packages",
+    content: "Paper Work",
+  },
+  {
+    title: "Mode",
+    content: "Road",
+    bgChange: true,
+  },
+  {
+    title: "Product",
+    content: "Cheque",
+  },
+  {
+    title: "Quantity",
+    content: "5",
+    bgChange: true,
+  },
+  {
+    title: "Payment Mode",
+    content: "Cash",
+  },
+  {
+    title: "Carrier",
+    content: "FedEx",
+    bgChange: true,
+  },
+  {
+    title: "Carrier Reference Number",
+    trackingNumber: true,
+  },
+  {
+    title: "Departure Time",
+    content: "12:00 A.M",
+    bgChange: true,
+  },
+  {
+    title: "Origin",
+    content: "Maryland",
+  },
+  {
+    title: "Destination",
+    content: "6881 Hungerford Road MD",
+    bgChange: true,
+  },
+  {
+    title: "Pickup Date",
+    content: " January 5,2024",
+  },
+  {
+    title: "Pickup Time",
+    content: "05:36 P.M",
+    bgChange: true,
+  },
+  {
+    title: "Status",
+    content: "Processing",
+  },
+  {
+    title: "Expected Delivery Date",
+    content: "January 6, 2023",
+    bgChange: true,
+  },
+  {
+    title: "Comments",
+    content: "Handle with care",
+  },
+  {
+    title: "Type of Shipment",
+    content: "Top Files",
+    bgChange: true,
+  },
+];
+
