@@ -17,7 +17,7 @@ export default function TimeLine238282() {
                 </time>
               </div>
             </div>
-            <div className="StepProgress-item is-done">
+            <div className="StepProgress-item">
               <div className="ml-5">
                 <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
                   IN TRANSIT
