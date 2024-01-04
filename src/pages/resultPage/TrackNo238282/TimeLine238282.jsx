@@ -26,7 +26,7 @@ export default function TimeLine238282() {
                   San Francisco, CA
                 </p>
                 <time className="flex items-center mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  January 5, 2023
+                  January 5, 2024
                 </time>
               </div>
             </div>
@@ -39,7 +39,7 @@ export default function TimeLine238282() {
                     San Francisco, CA
                   </p>
                   <time className="flex items-center mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                    January 5th, 2023
+                    January 5th, 2024
                   </time>
               </div>
             </div>
