@@ -10,7 +10,7 @@ export default function TimeLine238282() {
                   PACKAGE RECEIVED BY FEDEX
                 </h3>
                 <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
-                  Boston, MA. US
+                  Phoenix, AZ
                 </p>
                 <time className="flex items-center mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
                   January 4, 2024
@@ -23,7 +23,7 @@ export default function TimeLine238282() {
                   IN TRANSIT
                 </h3>
                 <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
-                  San Francisco, CA
+                  Phoenix AZ
                 </p>
                 <time className="flex items-center mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
                   January 5, 2024
@@ -36,11 +36,11 @@ export default function TimeLine238282() {
                   OUT FOR DELIVERY
                 </h3>
                 <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
-                    San Francisco, CA
-                  </p>
-                  <time className="flex items-center mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                    January 5th, 2024
-                  </time>
+                  Baltimore, MD
+                </p>
+                <time className="flex items-center mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
+                  January 5th, 2024
+                </time>
               </div>
             </div>
             <div className="StepProgress-item current">
