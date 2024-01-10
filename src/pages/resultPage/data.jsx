@@ -362,7 +362,7 @@ export const GaryMrestainoShippingInfo = [
   },
   {
     title: "Pickup Time",
-    content: "05:36 P.M",
+    content: "03:36 P.M",
     bgChange: true,
   },
   {
@@ -371,7 +371,7 @@ export const GaryMrestainoShippingInfo = [
   },
   {
     title: "Expected Delivery Date",
-    content: "January 6, 2024",
+    content: "January 11, 2024",
     bgChange: true,
   },
   {
