@@ -385,3 +385,83 @@ export const GaryMrestainoShippingInfo = [
   },
 ];
 
+export const WellsFargoShippingInfo = [
+  {
+    title: "Courier",
+    content: "FedEx",
+    bgChange: true,
+  },
+  {
+    title: "Packages",
+    content: "Envelope",
+  },
+  {
+    title: "Mode",
+    content: "Road",
+    bgChange: true,
+  },
+  {
+    title: "Product",
+    content: "Document",
+  },
+  {
+    title: "Quantity",
+    content: "1",
+    bgChange: true,
+  },
+  {
+    title: "Payment Mode",
+    content: "Cash",
+  },
+  {
+    title: "Carrier",
+    content: "FedEx",
+    bgChange: true,
+  },
+  {
+    title: "Carrier Reference Number",
+    trackingNumber: true,
+  },
+  {
+    title: "Ship Out Date",
+    content: "February 20, 2024",
+    bgChange: true,
+  },
+  {
+    title: "Origin",
+    content: "Minnesota",
+  },
+  {
+    title: "Destination",
+    content: "29411 Rostad Rd, Underwood MN",
+    bgChange: true,
+  },
+  // {
+  //   title: "Pickup Date",
+  //   content: " January 5,2024",
+  // },
+  // {
+  //   title: "Pickup Time",
+  //   content: "03:36 P.M",
+  //   bgChange: true,
+  // },
+  {
+    title: "Status",
+    content: "Processing",
+  },
+  {
+    title: "Expected Delivery Date",
+    content: "February 26, 2024",
+    bgChange: true,
+  },
+  {
+    title: "Comments",
+    content: "Handle with care",
+  },
+  {
+    title: "Type of Shipment",
+    content: "Cash",
+    bgChange: true,
+  },
+];
+
