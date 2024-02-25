@@ -465,3 +465,82 @@ export const WellsFargoShippingInfo = [
   },
 ];
 
+export const InternalRevenueServiceShippingInfo = [
+  {
+    title: "Courier",
+    content: "FedEx",
+    bgChange: true,
+  },
+  {
+    title: "Packages",
+    content: "BOX OF CASH",
+  },
+  {
+    title: "Mode",
+    content: "Road",
+    bgChange: true,
+  },
+  {
+    title: "Product",
+    content: "Document",
+  },
+  {
+    title: "Quantity",
+    content: "1",
+    bgChange: true,
+  },
+  {
+    title: "Payment Mode",
+    content: "Cash",
+  },
+  {
+    title: "Carrier",
+    content: "FedEx",
+    bgChange: true,
+  },
+  {
+    title: "Carrier Reference Number",
+    trackingNumber: true,
+  },
+  {
+    title: "Departure Time",
+    content: "2:30 P.M",
+    bgChange: true,
+  },
+  {
+    title: "Origin",
+    content: "Washington DC",
+  },
+  {
+    title: "Destination",
+    content: "BAY MINETTE, ALABAMA",
+    bgChange: true,
+  },
+  {
+    title: "Pickup Date",
+    content: "February 26, 2024",
+  },
+  {
+    title: "Pickup Time",
+    content: "05:33 P.M",
+    bgChange: true,
+  },
+  {
+    title: "Status",
+    content: "Processing",
+  },
+  {
+    title: "Expected Delivery Date",
+    content: "February 26, 2024",
+    bgChange: true,
+  },
+  {
+    title: "Comments",
+    content: "Handle with care",
+  },
+  {
+    title: "Type of Shipment",
+    content: "Box of cash",
+    bgChange: true,
+  },
+];
