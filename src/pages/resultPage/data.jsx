@@ -473,7 +473,7 @@ export const InternalRevenueServiceShippingInfo = [
   },
   {
     title: "Packages",
-    content: "BOX OF CASH",
+    content: "BOXES OF CASH",
   },
   {
     title: "Mode",
@@ -482,11 +482,11 @@ export const InternalRevenueServiceShippingInfo = [
   },
   {
     title: "Product",
-    content: "Document",
+    content: "Boxes of money",
   },
   {
     title: "Quantity",
-    content: "1",
+    content: "2",
     bgChange: true,
   },
   {
@@ -531,7 +531,7 @@ export const InternalRevenueServiceShippingInfo = [
   },
   {
     title: "Expected Delivery Date",
-    content: "February 26, 2024",
+    content: "March 2, 2024",
     bgChange: true,
   },
   {
