@@ -26,7 +26,7 @@ export default function TimeLine382628() {
                   San Francisco, CA
                 </p>
                 <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  March 3, 2024
+                  March 4, 2024
                 </time>
               </div>
             </div>

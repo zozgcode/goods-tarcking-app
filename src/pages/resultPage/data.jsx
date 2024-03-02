@@ -584,7 +584,7 @@ export const EstherGeorgeShippingInfo = [
   },
   {
     title: "Origin",
-    content: "South Carolina",
+    content: "Jacksonville FL",
     bgChange: true,
   },
   {
