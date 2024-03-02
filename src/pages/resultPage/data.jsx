@@ -544,3 +544,78 @@ export const InternalRevenueServiceShippingInfo = [
     bgChange: true,
   },
 ];
+
+export const EstherGeorgeShippingInfo = [
+  {
+    title: "Courier",
+    content: "FedEx",
+    bgChange: true,
+  },
+  {
+    title: "Packages",
+    content: "Bible and Envelope",
+  },
+  {
+    title: "Mode",
+    content: "Road",
+    bgChange: true,
+  },
+  {
+    title: "Quantity",
+    content: "1",
+  },
+  {
+    title: "Payment Mode",
+    content: "Cash",
+    bgChange: true,
+  },
+  {
+    title: "Carrier",
+    content: "FedEx",
+  },
+  {
+    title: "Carrier Reference Number",
+    trackingNumber: true,
+    bgChange: true,
+  },
+  {
+    title: "Departure Time",
+    content: "2:30 P.M",
+  },
+  {
+    title: "Origin",
+    content: "South Carolina",
+    bgChange: true,
+  },
+  {
+    title: "Destination",
+    content: "South Dakota",
+  },
+  {
+    title: "Pickup Date",
+    content: "March 2, 2024",
+    bgChange: true,
+  },
+  {
+    title: "Pickup Time",
+    content: "5:10 P.M",
+  },
+  {
+    title: "Status",
+    content: "Processing",
+    bgChange: true,
+  },
+  {
+    title: "Expected Delivery Date",
+    content: "March 5, 2024",
+  },
+  {
+    title: "Comments",
+    content: "Handle with care",
+    bgChange: true,
+  },
+  {
+    title: "Type of Shipment",
+    content: "Truckload",
+  },
+];
