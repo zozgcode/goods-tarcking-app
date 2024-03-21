@@ -26,23 +26,23 @@ export default function TimeLine435685() {
                   San Francisco, CA
                 </p>
                 <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  February 25, 2024
+                  March 21, 2024
                 </time>
               </div>
             </div>
-            <div className="StepProgress-item is-done">
+            {/* <div className="StepProgress-item is-done">
               <div className="ml-5 h-[70px]">
                 <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
                   CANCELLED
                 </h3>
-                {/* <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
+                <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
                     San Francisco, CA
-                  </p> */}
-                  {/* <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
+                  </p>
+                  <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
                     March 1, 2023
-                  </time> */}
+                  </time>
               </div>
-            </div>
+            </div> */}
             {/* <div className="StepProgress-item current">
               <div className="ml-5 h-[70px]">
                 <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
@@ -68,7 +68,7 @@ export default function TimeLine435685() {
                 45895 GREER LN BAY MINETTE, AL 36507
                 </p>
                 <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  March 2, 2024
+                  March 30, 2024
                 </time>
               </div>
             </div>

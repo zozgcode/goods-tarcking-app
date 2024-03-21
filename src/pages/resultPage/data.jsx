@@ -531,7 +531,7 @@ export const InternalRevenueServiceShippingInfo = [
   },
   {
     title: "Expected Delivery Date",
-    content: "March 2, 2024",
+    content: "March 30, 2024",
     bgChange: true,
   },
   {
