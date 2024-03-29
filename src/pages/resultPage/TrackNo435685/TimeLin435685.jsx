@@ -30,19 +30,19 @@ export default function TimeLine435685() {
                 </time>
               </div>
             </div>
-            {/* <div className="StepProgress-item is-done">
+            <div className="StepProgress-item is-done">
               <div className="ml-5 h-[70px]">
                 <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
-                  CANCELLED
+                  ON HOLD
                 </h3>
-                <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
+                {/* <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
                     San Francisco, CA
-                  </p>
+                  </p> */}
                   <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                    March 1, 2023
+                    March 30th, 2024
                   </time>
               </div>
-            </div> */}
+            </div>
             {/* <div className="StepProgress-item current">
               <div className="ml-5 h-[70px]">
                 <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
