@@ -64,6 +64,9 @@
 .StepProgress-item.is-done::before {
   border-left: 5px solid #462895;
 }
+.StepProgress-item.is-done::before {
+  border-left: 5px solid #462895;
+}
 .StepProgress-item.is-done::after {
   content: "✔";
   font-size: 20px;
@@ -80,6 +83,25 @@
 .StepProgress-item.current::before {
   border-left: 5px solid #462895;
 }
+
+.StepProgress-item.is-done.bg-red::before {
+  border-left: 5px solid red;
+}
+.StepProgress-item.is-done.bg-red::after {
+  content: "✔";
+  font-size: 20px;
+  color: #fff;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid red;
+  background-color: red;
+}
+
+
 .StepProgress-item.current::after {
   // content: counter(list);
   padding-top: 1px;
