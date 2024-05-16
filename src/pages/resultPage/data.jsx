@@ -772,3 +772,82 @@ export const EdwardToddShippingInfo = [
     content: "Truckload",
   },
 ];
+
+export const JamesHolletShippingInfo = [
+  {
+    title: "Weight",
+    content: "10kg",
+  },
+  {
+    title: "Courier",
+    content: "FedEx",
+    bgChange: true,
+  },
+  {
+    title: "Packages",
+    content: "Briefcase",
+  },
+  {
+    title: "Mode",
+    content: "Road",
+    bgChange: true,
+  },
+  {
+    title: "Quantity",
+    content: "1",
+  },
+  {
+    title: "Payment Mode",
+    content: "Cash/Card",
+    bgChange: true,
+  },
+  {
+    title: "Carrier",
+    content: "FedEx",
+  },
+  {
+    title: "Carrier Reference Number",
+    trackingNumber: true,
+    bgChange: true,
+  },
+  {
+    title: "Departure Time",
+    content: "10:30 A.M",
+  },
+  {
+    title: "Origin",
+    content: "California Department",
+    bgChange: true,
+  },
+  {
+    title: "Destination",
+    content: "Antonio Texas",
+  },
+  {
+    title: "Pickup Date",
+    content: "May 16, 2024",
+    bgChange: true,
+  },
+  {
+    title: "Pickup Time",
+    content: "12:00 P.M",
+  },
+  {
+    title: "Status",
+    content: "Processing",
+    bgChange: true,
+  },
+  {
+    title: "Expected Delivery Date",
+    content: "May 16, 2024",
+  },
+  {
+    title: "Comments",
+    content: "Handle with care",
+    bgChange: true,
+  },
+  {
+    title: "Type of Shipment",
+    content: "Truckload",
+  },
+];
