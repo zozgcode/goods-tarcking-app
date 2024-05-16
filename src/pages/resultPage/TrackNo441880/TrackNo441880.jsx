@@ -35,7 +35,7 @@ export default function TrackNo441880({ inputValue }) {
                 <tbody>
                   <tr className="bg-white text-[#333333] border">
                     <td className="px-4 py-2 w-[200px]">James Hollet</td>
-                    <td className="px-4 py-2 w-[200px]">3042070422</td>
+                    <td className="px-4 py-2 w-[200px]">304207****</td>
                     <td className="px-4 py-2 w-[300px]">
                       California FedEx department
                     </td>
@@ -76,7 +76,7 @@ export default function TrackNo441880({ inputValue }) {
                 <tbody>
                   <tr className="bg-white text-[#333333] border">
                     <td className="px-4 py-2 w-[200px]">Justin Albritton </td>
-                    <td className="px-4 py-2 w-[200px]">6057095643</td>
+                    <td className="px-4 py-2 w-[200px]">605709****</td>
                     <td className="px-4 py-2 w-[300px]">
                     5830 pin pt San Antonio Texas 78266
                     </td>
