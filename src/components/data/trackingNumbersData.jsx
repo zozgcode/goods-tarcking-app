@@ -46,4 +46,10 @@ export const trackingNumbersData = [
     dateCreated: "05/16/2024 - m/d/y",
     from: "olaolu"
   },
+  {
+    id: 11,
+    number: "Fedex/USA/24/542809",
+    dateCreated: "05/22/2024 - m/d/y",
+    from: "olaolu"
+  },
 ];
