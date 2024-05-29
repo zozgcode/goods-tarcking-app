@@ -43,10 +43,10 @@ export default function TimeLine726290() {
                 </time>
               </div>
             </div>
-            <div className="StepProgress-item is-done bg-red">
+            <div className="StepProgress-item is-done bg-green">
               <div className="ml-5">
                 <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
-                  DELIVERED
+                  IN TRANSIT
                 </h3>
                 {/* <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
                   Jacob Myerss
@@ -61,20 +61,21 @@ export default function TimeLine726290() {
 
               <div className="ml-5 text-red-500">
                 <p>
-                  You are to bring along the Driver License along, they
-                  are to be processed to confirm your Identification.
+                  Your Package have been processed and accepted by the Custome
+                  Service here in Oklahoma City and it’s will be out for
+                  delivery tomorrow.
                 </p>
                 <p className="mt-2">
-                  Note: don’t not come to our office Until you have fully paid
-                  for the stamp Duties, After the Charges are paid the sectary
-                  will bring you the stamp duty and then you will come along
-                  with:
+                  Note : The package will be out for delivery after you have
+                  paid to the service charge which is $800 . The service charge
+                  is to secure the money to your Home address in Tulsa County.
                 </p>
-                <p className="mt-2">
-                  Stamp Duty<br />
+                {/* <p className="mt-2">
+                  Stamp Duty
+                  <br />
                   Driver license ( The driver License shown above )<br />
                   Stamp Duty receipt.
-                </p>
+                </p> */}
               </div>
             </div>
           </ul>

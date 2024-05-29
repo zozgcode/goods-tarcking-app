@@ -71,24 +71,6 @@ export default function TimeLine441880() {
                   May 16, 2024
                 </time>
               </div>
-
-              {/* <div className="ml-5 text-red-500">
-                <p>
-                  You are to bring along the Driver License along, they
-                  are to be processed to confirm your Identification.
-                </p>
-                <p className="mt-2">
-                  Note: don’t not come to our office Until you have fully paid
-                  for the stamp Duties, After the Charges are paid the sectary
-                  will bring you the stamp duty and then you will come along
-                  with:
-                </p>
-                <p className="mt-2">
-                  Stamp Duty<br />
-                  Driver license ( The driver License shown above )<br />
-                  Stamp Duty receipt.
-                </p>
-              </div> */}
             </div>
           </ul>
         </div>

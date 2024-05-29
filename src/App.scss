@@ -101,6 +101,23 @@
   background-color: red;
 }
 
+.StepProgress-item.is-done.bg-green::before {
+  border-left: 5px solid green;
+}
+.StepProgress-item.is-done.bg-green::after {
+  content: "✔";
+  font-size: 20px;
+  color: #fff;
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid green;
+  background-color: green;
+}
+
 
 .StepProgress-item.current::after {
   // content: counter(list);
