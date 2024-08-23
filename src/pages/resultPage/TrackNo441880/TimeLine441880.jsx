@@ -26,7 +26,7 @@ export default function TimeLine441880() {
                   San Francisco, CA
                 </p> */}
                 <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  May 16, 2024
+                  August 22, 2024
                 </time>
               </div>
             </div>
@@ -39,7 +39,7 @@ export default function TimeLine441880() {
                     San Francisco, CA
                   </p> */}
                 <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  May 16, 2024
+                  August 22, 2024
                 </time>
               </div>
             </div>
@@ -52,7 +52,7 @@ export default function TimeLine441880() {
                     San Francisco, CA
                   </p> */}
                 <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  May 16, 2024
+                  August 22, 2024
                 </time>
               </div>
             </div>
@@ -65,10 +65,10 @@ export default function TimeLine441880() {
                   Jacob Myerss
                 </p> */}
                 <p className="flex items-center mb-1 text-sm font-semibold text-[#808080]">
-                5830 pin pt San Antonio Texas 78266
+                  5830 pin pt San Antonio Texas 78266
                 </p>
                 <time className="block mb-2 text-sm font-normal leading-none text-[#333333] dark:text-gray-500">
-                  May 16, 2024
+                  August 22, 2024
                 </time>
               </div>
             </div>
