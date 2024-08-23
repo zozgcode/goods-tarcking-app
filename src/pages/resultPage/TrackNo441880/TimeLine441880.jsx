@@ -43,7 +43,7 @@ export default function TimeLine441880() {
                 </time>
               </div>
             </div>
-            <div className="StepProgress-item current">
+            <div className="StepProgress-item current hidden">
               <div className="ml-5 h-[70px]">
                 <h3 className="flex items-center mb-1 text-[16px] font-semibold text-[#333333]">
                   ON HOLD
